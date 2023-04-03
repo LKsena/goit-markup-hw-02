@@ -1,4 +1,64 @@
  body {
     
+    width: 1440px;
+    background: #FFFFFF
 
+:root  }
+    --brand-color: navy blue; 
+{
+
+    #page-header{
+        width: 1440px;
+        background: cornflower;
+       
+    }
+/*Logo*/
+    #logo-link{
+        flex-direction: row;
+        align-items: center;
+        width: 115px;
+
+    #logo-span{
+        width: 44px
+        background-color: iris;
+    }
+
+/*Hero*/
+    #hero-image{
+        width: 1440px;
+        background-color:#D9D9D9;
+
+    
+
+  
+        
+        
+        
+      
 }
+#{}
+#{}
+#{}
+#{}
+#{}
+#{}
+#{}
+#{}
+   
+    
+    }
+
+
+    #title {
+        position: absolute;
+        width: 496px;
+        height: 120px;
+        left: 472px;
+        top: 250px
+        font-size: 56px;
+        font-weight: 700;
+        color: #D9D9D9;
+        text-align: center
+        text-shadow: 0px 4px 4px
+      }
+
