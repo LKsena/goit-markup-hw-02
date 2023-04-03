@@ -1,6 +1,22 @@
- body {
-    width: 1440px;
-    background: #FFFFFF
+/* ==========VARIABLES */
+:root {
+    --primary-color: #2E2F42;
+    --main-text-color: #434455;
+    --logo-btn-color: #4D5AE5;
+    --main-inverse-color: #FFFFFF;
+    --secondary-inverse-color: #E7E9FC;
+    --accent-color: #404BBF;
+    --logo-inverse-color: #F4F4FD;
+    --secondary-bg-color: #F4F4FD;
+
+img {
+        display: block;
+    }
+ 
+body {
+        background-color: #FFFFFF;
+        color: var(--main-text-color);   
+        font-family: Roboto, sans-serif;
 
 
 .page-header{
